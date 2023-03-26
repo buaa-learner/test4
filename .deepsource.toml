@@ -20,19 +20,7 @@ name = "javascript"
   ]
 
 [[transformers]]
-name = "prettier"
-
-[[transformers]]
 name = "standardjs"
 
 [[transformers]]
-name = "yapf"
-
-[[transformers]]
-name = "autopep8"
-
-[[transformers]]
 name = "black"
-
-[[transformers]]
-name = "isort"
